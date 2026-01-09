@@ -12,7 +12,7 @@ All you need to know about my projects will be stored here
 |m14|Official|WIP|Working|Working and Mounting|arm64|90hz|
 |a16x|Official|WIP|Working|Working and Mounting|arm64|120hz|
 |a17x|Official|WIP|Assumed Working|Working and Mounting|arm64|120hz|
-|a21s|Unofficial|WIP|WIP|WIP|WIP|arm64|60hz|
+|a21s|Unofficial|WIP|WIP|WIP|arm64|60hz|
 |a25ex|Official|WIP|Working|Working and Mounting|arm64|120hz|
 |a34x|Official|Broken|Working|Working and Mounting|arm64|120hz|
 |a35x|Official|WIP|WIP|Working and Mounting|arm64|120hz|
