@@ -23,3 +23,8 @@ All you need to know about my projects will be stored here
 |r11q|Official|Current|Broken|Working|Working and Mounting|arm64|120hz|Snapdragon|
 |gta8wifi|Unofficial|Current|Broken|Working|Working and Mounting|arm64|60hz|Unisoc|
 |gta11wifi|Unofficial|Current|WIP|WIP|WIP|arm64|90hz|Mediatek|
+
+## TWRP Kyocera
+|Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|KY41C|Unofficial|Current|WIP||WIP|WIP|arm32|60hz|Mediatek|
