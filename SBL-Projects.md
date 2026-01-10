@@ -27,4 +27,4 @@ All you need to know about my projects will be stored here
 ## TWRP Kyocera
 |Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|KY41C|Unofficial|Current|WIP||WIP|WIP|arm32|60hz|Mediatek|
+|KY41C|Unofficial|Current|WIP|WIP|WIP|arm32|60hz|Mediatek|
