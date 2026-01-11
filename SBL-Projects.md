@@ -28,3 +28,8 @@ All you need to know about my projects will be stored here
 |Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |KY41C|Unofficial|Current|WIP|WIP|WIP|arm32|60hz|Mediatek|
+
+## TWRP Nokia/HMD
+|Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|SCW_sprout|Unofficial|Current|WIP|WIP|WIP|arm64|??|Snapdragon|
