@@ -58,7 +58,10 @@ Stable, Not currently being worked on, no tester (Official)
 Started, Work in Progress (Unofficial)
 
 ## gta11wifi
-Currently not booting (unofficial)
+Currently not booting (Unofficial)
 
 ## KY-41C
 Not Booting
+
+## SCW_sprout
+Not Tested (Unofficial) 
