@@ -33,3 +33,8 @@ All you need to know about my projects will be stored here
 |Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |SCW_sprout|Unofficial|Current|WIP|WIP|WIP|arm64|??|Snapdragon|
+
+## TWRP Motorola
+|Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|mona|Unofficial|Current|WIP|WIP|WIP|arm64|120|Snapdragon|
