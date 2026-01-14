@@ -28,7 +28,7 @@ Stable, incomplete (Official)
 Stable, incomplete (Official)
 
 ## a21s
-Stable, needs Fstab Rework (Pre-Official)
+Stable, incomplete (Official)
 
 ## a25ex
 Stable, incomplete (Official)
