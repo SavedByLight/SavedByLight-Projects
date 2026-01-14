@@ -7,6 +7,7 @@ All you need to know about my projects will be stored here
 |a04s|Official|Current|Broken|Working|Working and Mounting|arm64|60hz|Exynos|
 |a05s|Official|Current|WIP|Working|Working and Mounting|arm64|90hz|Snapdragon|
 |a12s|Official|Current|Broken|Working|Working and Mounting|arm64|60hz|Exynos|
+|m13|Pre-Official|Current|Broken|Working|Working and Mounting|arm64|60hz|Exynos|
 |a13|Official|Current|Broken|Working|Working and Mounting|arm32|60hz|Exynos|
 |a13ve|Official|Current|Broken|Working|Working and Mounting|arm32|60hz|Mediatek|
 |m14|Official|Current|WIP|Working|Working and Mounting|arm64|90hz|Snapdragon|
