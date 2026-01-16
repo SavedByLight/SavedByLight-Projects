@@ -10,7 +10,7 @@ Stable, incomplete (Official)
 Stable, incomplete (Official)
 
 ## m12
-Assumed Stable, Incomplete, (Pre-Official) 
+Not Booting, Incomplete, (Pre-Official) 
 
 ## a13
 Stable, incomplete (Official)
@@ -64,7 +64,7 @@ Started, Work in Progress (Unofficial)
 Currently not booting (Unofficial)
 
 ## KY-41C
-Not Booting
+Stable, incomplete (Pre-Official) 
 
 ## SCW_sprout
 Not Tested (Unofficial)
