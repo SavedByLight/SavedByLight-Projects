@@ -5,3 +5,6 @@
 
 ## m55xq
  - [cd-crypton](https://github.com/cd-crypton)
+
+## a25ex & KY41C
+ -	[Yoshinobu Date](https://github.com/yoshi3jp) 
