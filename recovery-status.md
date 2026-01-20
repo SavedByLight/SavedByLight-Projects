@@ -64,7 +64,7 @@ Started, Work in Progress (Unofficial)
 Currently not booting (Unofficial)
 
 ## KY-41C
-Stable, incomplete (Pre-Official) 
+Stable, incomplete (Official) 
 
 ## SCW_sprout
 Not Tested (Unofficial)
