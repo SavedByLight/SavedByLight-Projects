@@ -1,4 +1,4 @@
-9# Recovery Status (WIP)
+# Recovery Status (WIP)
 
 ## a04s
 Currently fixing boot issues for twrp (Official)
