@@ -40,3 +40,13 @@ All you need to know about my projects will be stored here
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |mona|Unofficial|Current|WIP|WIP|WIP|arm64|120|Snapdragon|
 |manaus|Unofficial|Current|WIP|WIP|WIP|arm64|??|Mediatek|
+
+## TWRP Xiaomi
+|Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|lake|Unofficial|Current|WIP|WIP|WIP|arm64|120|??|
+
+## TWRP Alcatel/TCL
+|Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|U3A_7_3G|Unofficial|Current|WIP|WIP|WIP|arm32|??|Mediatek|
