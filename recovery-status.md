@@ -1,7 +1,7 @@
 # Recovery Status (WIP)
 
 ## a04s
-Currently fixing boot issues for twrp (Official)
+Stable, Incomplete (Official)
 
 ## a05s
 Stable, incomplete (Official)
@@ -10,7 +10,7 @@ Stable, incomplete (Official)
 Stable, incomplete (Official)
 
 ## m12
-Not Booting, Incomplete, (Pre-Official) 
+WIP, Incomplete, (Pre-Official) 
 
 ## a13
 Stable, incomplete (Official)
@@ -52,7 +52,7 @@ Untested (Unofficial)
 Stable, Crypto is on (Official)
 
 ## m56x
-Not Started (Unofficial)
+Currently Being Worked on (Unofficial)
 
 ## r11q
 Stable, Not currently being worked on, no tester (Official)
@@ -70,7 +70,7 @@ Stable, incomplete (Official)
 Not Tested (Unofficial)
 
 ## mona
-Test Version Released! 
+Not Booting, Work In Progress! (Unofficial)
 
 ## manaus
 Unreleased, Work In Progress (Unofficial) 
