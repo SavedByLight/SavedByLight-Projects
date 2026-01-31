@@ -52,7 +52,7 @@ Untested (Unofficial)
 Stable, Crypto is on (Official)
 
 ## m56x
-Currently Being Worked on (Unofficial)
+Stable, Incomplete (Pre-Official)
 
 ## r11q
 Stable, Not currently being worked on, no tester (Official)
@@ -71,6 +71,9 @@ Not Tested (Unofficial)
 
 ## mona
 Not Booting, Work In Progress! (Unofficial)
+
+## penang
+Booting, Work In Progress! (Unofficial)
 
 ## manaus
 Unreleased, Work In Progress (Unofficial) 
