@@ -45,9 +45,14 @@ All you need to know about my projects will be stored here
 ## TWRP Xiaomi
 |Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|lake|Unofficial|Current|WIP|WIP|WIP|arm64|120|??|
+|lake|Unofficial|Current|WIP|WIP|WIP|arm64|120|Mediatek|
 
 ## TWRP Alcatel/TCL
 |Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |U3A_7_3G|Unofficial|Current|WIP|WIP|WIP|arm32|??|Mediatek|
+
+## Doogee
+|Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|M23S|Unofficial|Current|WIP|WIP|WIP|arm64|??|Mediatek|
