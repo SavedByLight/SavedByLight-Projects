@@ -72,14 +72,11 @@ Not Tested (Unofficial)
 ## mona
 Not Booting, Work In Progress! (Unofficial)
 
-## penang
-Booting, Work In Progress! (Unofficial)
+## penang_g
+Booting, adb broken, Work In Progress! (Unofficial)
 
 ## manaus
 Unreleased, Work In Progress (Unofficial) 
-
-## M23S
-Tree Being Worked On! (Unofficial) 
 
 ## U3A_7_3G
 Tree Being Worked On! (Unofficial) 
@@ -88,4 +85,4 @@ Tree Being Worked On! (Unofficial)
 Stable, Booting (Unofficial) 
 
 ## M23S
-Test Released 6/2/2026
+Wont Boot into system WIP (Unofficial)
