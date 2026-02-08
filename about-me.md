@@ -16,3 +16,15 @@ Making TWRPS (Obviously), I like animals, Spending time with my family and frien
  - [Cd-crypton](https://github.com/cd-crypton) - When I started I knew nothing, carlo helped me so much to learn how to do recoveries
  - [Maxim](https://github.com/maxim-root) - My first ever recovery was gta8wifi, I nearly gave up, but my good friend Maxim didn't let me and it helped so much. 
 Also see my Contributors file for more
+
+## Current Devices i own
+ - Samsung Galaxy A55
+ - Samsung Galaxy A13
+ - Samsung Galaxy A12 Nacho
+ - Samsung Galaxy Tab A9
+ - Honor Pad 10
+ - Amazon Fire 10 13th
+
+## Planned Devices
+ - Honor 700/800 Series Phone (2029)
+
