@@ -25,6 +25,11 @@ All you need to know about my projects will be stored here
 |gta8wifi|Unofficial|Current|Broken|Working|Working and Mounting|arm64|60hz|Unisoc|
 |gta11wifi|Unofficial|Current|WIP|WIP|WIP|arm64|90hz|Mediatek|
 
+## ROM Samsung (Incomplete) 
+|Device|Status|Support Status|System|Booting|USB-OTG|Partitions|Touchscreen|Display|Audio|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|a13ve|Unofficial|Current|Lineage|WIP|WIP|WIP|WIP|WIP|WIP|
+
 ## TWRP Kyocera
 |Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
