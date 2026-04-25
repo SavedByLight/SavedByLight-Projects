@@ -4,7 +4,7 @@
 Jamie
 
 ## Age 
-33
+34
 
 ## Location
 England, United Kingdom
@@ -18,13 +18,14 @@ Making TWRPS (Obviously), I like animals, Spending time with my family and frien
 Also see my Contributors file for more
 
 ## Current Devices i own
- - Samsung Galaxy A55
- - Samsung Galaxy A13
- - Samsung Galaxy A12 Nacho
- - Samsung Galaxy Tab A9
- - Honor Pad 10
- - Amazon Fire 10 13th
+ - Honor Magic 8 Lite (Current Main Phone)
+ - Samsung Galaxy A55 (Other Device)
+ - Samsung Galaxy A13 (Other Device)
+ - Samsung Galaxy A12 Nacho (Current Secondary Phone)
+ - Samsung Galaxy Tab A9 (Other Device)
+ - Honor Pad 10 (Current Main Tablet)
+ - Amazon Fire 10 13th (Current Secondary Tablet)
 
 ## Planned Devices
- - Honor 700/800 Series Phone (2029)
+ - Motorola G67/G77 (To replace Secondary Phone)
 
