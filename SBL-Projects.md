@@ -1,7 +1,7 @@
 # SavedByLight-Projects
 All you need to know about my projects will be stored here 
 
-## TWRP Samsung (Incomplete) 
+## TWRP Samsung
 |Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |a04s|Official|Current|Broken|Working|Working and Mounting|arm64|60hz|Exynos|
@@ -24,6 +24,18 @@ All you need to know about my projects will be stored here
 |r11q|Official|Current|Broken|Working|Working and Mounting|arm64|120hz|Snapdragon|
 |gta8wifi|Unofficial|Current|Broken|Working|Working and Mounting|arm64|60hz|Unisoc|
 |gta11wifi|Unofficial|Current|WIP|WIP|WIP|arm64|90hz|Mediatek|
+
+## Orangefox Samsung
+|Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|Orangefox Version|Android Version|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|a05s|Unofficial|Current|WIP|Working|Working and Mounting|arm64|90hz|Snapdragon|R12|14.1|
+|m14|Unfficial|Current|WIP|Working|Working and Mounting|arm64|90hz|Snapdragon|R12|14.1|
+|a16x|Unofficial|Current|WIP|Working|Working and Mounting|arm64|120hz|Exynos|R12|14.1|
+|a25ex|Unoffficial|Current|WIP|Working|Working and Mounting|arm64|120hz|Mediatek|R12|14.1|
+|a34x|Unofficial|Current|Broken|Working|Working and Mounting|arm64|120hz|Mediatek|-|-|
+|a35x|Unofficial|Current|WIP|WIP|Working and Mounting|arm64|120hz|Exynos|R12|14.1|
+|m35x|Unofficial|Current|WIP|WIP|Working and Mounting|arm64|120hz|Exynos|R12|14.1|
+|m55xq|Unofficial|Current|WIP|WIP|Working and Mounting|arm64|120hz|Snapdragon|R12|14.1|
 
 ## ROM Samsung (Incomplete) 
 |Device|Status|Support Status|System|Booting|USB-OTG|Partitions|Touchscreen|Display|Audio|Bluetooth|WiFi|IMS/VOLTE|
@@ -50,7 +62,7 @@ All you need to know about my projects will be stored here
 ## TWRP Xiaomi
 |Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|lake|Unofficial|Current|WIP|WIP|WIP|arm64|120|Mediatek|
+|lake|Unofficial|Current|WIP|WIP|Working and Mounting|arm64|120|Mediatek|
 
 ## TWRP Alcatel/TCL
 |Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
