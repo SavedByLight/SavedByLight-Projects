@@ -31,7 +31,7 @@ All you need to know about my projects will be stored here
 |a05s|Unofficial|Current|WIP|Working|Working and Mounting|arm64|90hz|Snapdragon|R12|14.1|
 |m14|Unfficial|Current|WIP|Working|Working and Mounting|arm64|90hz|Snapdragon|R12|14.1|
 |a16x|Unofficial|Current|WIP|Working|Working and Mounting|arm64|120hz|Exynos|R12|14.1|
-|a25ex|Unoffficial|Current|WIP|Working|Working and Mounting|arm64|120hz|Mediatek|R12|14.1|
+|a25ex|Unofficial|Current|WIP|Working|Working and Mounting|arm64|120hz|Mediatek|R12|14.1|
 |a34x|Unofficial|Current|Broken|Working|Working and Mounting|arm64|120hz|Mediatek|-|-|
 |a35x|Unofficial|Current|WIP|WIP|Working and Mounting|arm64|120hz|Exynos|R12|14.1|
 |m35x|Unofficial|Current|WIP|WIP|Working and Mounting|arm64|120hz|Exynos|R12|14.1|
@@ -63,6 +63,11 @@ All you need to know about my projects will be stored here
 |Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |lake|Unofficial|Current|WIP|WIP|Working and Mounting|arm64|120|Mediatek|
+
+## Orangefox Xiaomi
+|Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|Orangefox Version|Android Version|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|lake|Unofficial|Current|WIP|WIP|Working and Mounting|arm64|120|Mediatek|R12|14.1|
 
 ## TWRP Alcatel/TCL
 |Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|
