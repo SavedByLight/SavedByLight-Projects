@@ -19,7 +19,6 @@ Also see my Contributors file for more
 
 ## Current Devices i own
  - Honor Magic 8 Lite (Current Main Phone)
- - Samsung Galaxy A55 (Other Device)
  - Samsung Galaxy A13 (Other Device)
  - Samsung Galaxy A12 Nacho (Current Secondary Phone)
  - Samsung Galaxy Tab A9 (Other Device)
