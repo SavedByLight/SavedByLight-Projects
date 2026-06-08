@@ -29,6 +29,7 @@ All you need to know about my projects will be stored here
 |Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|Orangefox Version|Android Version|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |a05s|Unofficial|Current|WIP|Working|Working and Mounting|arm64|90hz|Snapdragon|R12|14.1|
+|a13|Official|Current|Broken|Working|Working and Mounting|arm32|60hz|Exynos|R112|14.1|
 |m14|Unfficial|Current|WIP|Working|Working and Mounting|arm64|90hz|Snapdragon|R12|14.1|
 |a16x|Unofficial|Current|WIP|Working|Working and Mounting|arm64|120hz|Exynos|R12|14.1|
 |a25ex|Unofficial|Current|WIP|Working|Working and Mounting|arm64|120hz|Mediatek|R12|14.1|
