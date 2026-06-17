@@ -21,11 +21,7 @@ Also see my Contributors file for more
  - Google Pixel 10a (Current Main Phone)
  - Honor Magic 8 lite (Current Secondary Phone)
  - Samsung Galaxy A13 (Other Phone)
- - Samsung Galaxy A12 Nacho
+ - Samsung Galaxy A12 Nacho (Other Phone)
  - Samsung Chromebook 4 (Productivity)
  - Honor Pad 10 (Current Main Tablet)
  - Amazon Fire 10 13th gen (Current Secondary Tablet)
-
-## Planned Devices
- - Motorola G67/G77 (To replace Secondary Phone)
-
