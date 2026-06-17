@@ -18,12 +18,13 @@ Making TWRPS (Obviously), I like animals, Spending time with my family and frien
 Also see my Contributors file for more
 
 ## Current Devices i own
- - Honor Magic 8 Lite (Current Main Phone)
- - Samsung Galaxy A13 (Current Secondary Phone)
- - Samsung Galaxy A12 Nacho (Other Phone)
+ - Google Pixel 10a (Current Main Phone)
+ - Honor Magic 8 lite (Current Secondary Phone)
+ - Samsung Galaxy A13 (Other Phone)
+ - Samsung Galaxy A12 Nacho
  - Samsung Chromebook 4 (Productivity)
  - Honor Pad 10 (Current Main Tablet)
- - Honor Pad x8a (Current Secondary Tablet)
+ - Amazon Fire 10 13th gen (Current Secondary Tablet)
 
 ## Planned Devices
  - Motorola G67/G77 (To replace Secondary Phone)
