@@ -4,26 +4,26 @@ All you need to know about my projects will be stored here
 ## TWRP Samsung
 |Device|Official|Supported|Encryption|USB-OTG|Partitions Mount|Sideloading|fastboot|Brightness Slider|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|a04s|[x]|[x]|[ ]|[x]|[x]|[ ]|[x]|[x]|
-|a05s|[x]|[x]|[ ]|[x]|[x]|[x]|[x]|[x]|
-|a12s|[x]|[x]|[ ]|[x]|[x]|[x]|[x]|[x]|
-|m12|[x]|[x]|[ ]|[x]|[x]|[x]|[x]|[x]|
-|a13|[x]|[x]|[ ]|[x]|[x]|[x]|[x]|[x]|
-|a13ve|[x]|[x]|[ ]|[x]|[x]|[x]|[x]|[x]|
-|m14|[x]|[x]|[ ]|[x]|[x]|[x]|[x]|[x]|
-|a16x|[x]|[x]|[ ]|[x]|[x]|[x]|[x]|[x]|
-|a17x|[x]|[x]|[ ]|[x]|[x]|[x]|[x]|[x]|
-|a21s|[x]|[x]|[ ]|[x]|[x]|[x]|[x]|[x]|
-|a25ex|[x]|[x]|[ ]|[x]|[x]|[x]|[x]|[x]|
-|a34x|[x]|[x]|[ ]|[x]|[x]|[x]|[x]|[x]|
-|a35x|[x]|[x]|[ ]|[x]|[x]|[x]|[x]|[x]|
-|m35x|[x]|[x]|[ ]|[x]|[x]|[x]|[x]|[x]|
-|a41|[ ]|[ ]|[ ]|[ ]|[ ]|[ ]|[ ]|[ ]|
-|m55xq|[x]|[x]|[ ]|[ ]|[x]|[x]|[x]|[x]|
-|m56x|[x]|[x]|[ ]|[ ]|[x]|[x]|[x]|[x]|
-|r11q|[x]|[x]|[ ]|[x]|[x]|[x]|[x]|[x]|
-|gta8wifi|[ ]|[ ]|[ ]|[ ]|[ ]|[ ]|[ ]|[ ]|
-|gta11wifi|[ ]|[ ]|[ ]|[ ]|[ ]|[ ]|[ ]|[ ]|
+|a04s|✅|✅|❌|✅|✅|❌|✅|✅|
+|a05s|✅|✅|❌|✅|✅|✅|✅|✅|
+|a12s|✅|✅|❌|✅|✅|✅|✅|✅|
+|m12|✅|✅|❌|✅|✅|✅|✅|✅|
+|a13|✅|✅|❌|✅|✅|✅|✅|✅|
+|a13ve|✅|✅|❌|✅|✅|✅|✅|✅|
+|m14|✅|✅|❌|✅|✅|✅|✅|✅|
+|a16x|✅|✅|❌|✅|✅|✅|✅|✅|
+|a17x|✅|✅|❌|✅|✅|✅|✅|✅|
+|a21s|✅|✅|❌|✅|✅|✅|✅|✅|
+|a25ex|✅|✅|❌|✅|✅|✅|✅|✅|
+|a34x|✅|✅|❌|✅|✅|✅|✅|✅|
+|a35x|✅|✅|❌|✅|✅|✅|✅|✅|
+|m35x|✅|✅|❌|✅|✅|✅|✅|✅|
+|a41|❌|❌|❌|❌|❌|❌|❌|❌|
+|m55xq|✅|✅|❌|❌|✅|✅|✅|✅|
+|m56x|✅|✅|❌|✅|✅|✅|✅|✅|
+|r11q|✅|✅|❌|✅|✅|✅|✅|✅|
+|gta8wifi|❌|❌|❌|❌|❌|❌|❌|❌|
+|gta11wifi|❌|❌|❌|❌|❌|❌|❌|❌|
 
 ## Orangefox Samsung
 |Device|Status|Support Status|/Data Mounting|USB-OTG|Partitions|Architecture|Refresh Rate|Chip Brand|Orangefox Version|Android Version|
