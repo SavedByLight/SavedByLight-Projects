@@ -32,6 +32,7 @@ All you need to know about my projects will be stored here
 |a13|Unofficial|Current|Broken|Working|Working and Mounting|arm32|60hz|Exynos|R12|14.1|
 |m14|Unofficial|Current|WIP|Working|Working and Mounting|arm64|90hz|Snapdragon|R12|14.1|
 |a16x|Unofficial|Current|WIP|Working|Working and Mounting|arm64|120hz|Exynos|R12|14.1|
+|a17x|Unofficial|Current|WIP|Working|Working and Mounting|arm64|120hz|Exynos|R12|14.1|
 |a25ex|Unofficial|Current|WIP|Working|Working and Mounting|arm64|120hz|Mediatek|R12|14.1|
 |a34x|Unofficial|Current|Broken|Working|Working and Mounting|arm64|120hz|Mediatek|-|-|
 |a35x|Unofficial|Current|WIP|WIP|Working and Mounting|arm64|120hz|Exynos|R12|14.1|
