@@ -18,8 +18,9 @@ Making TWRPS (Obviously), I like animals, Spending time with my family and frien
 Also see my Contributors file for more
 
 ## Current Devices i own
- - Google Pixel 10a (Current Main Phone)
- - Samsung Galaxy A52s (Current Secondary Phone)
+ - Google Pixel 10 (Current Main Phone)
+ - Google Pixel 10a (Current Secondary Phone)
+ - Samsung Galaxy A52s (Other Phone)
  - Samsung Galaxy A13 (Other Phone)
  - Samsung Galaxy A12 Nacho (Other Phone)
  - Samsung Galaxy A20e (Other Phone)
